@@ -94,48 +94,48 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 ## Output:
 
-Read CSV FILE :
+### Read CSV FILE :
 
 ![270173184-c3890f4a-241e-42ea-a7c8-9b7980d000ff](https://github.com/PriyankaAnnadurai/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118351569/83ae155e-6d6d-41f2-8675-db2869e10897)
 
 
 
-Dataset shape :
+### Dataset shape :
 
 ![270173247-c6e1aec4-cfc2-4f19-a113-96a9a15a00f1](https://github.com/PriyankaAnnadurai/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118351569/fc57ce2c-5ecb-436f-bce7-e112c2fb50dc)
 
 
 
-Profit Vs Prediction graph:
+### Profit Vs Prediction graph:
 
 ![270173306-5033cb3f-53d3-42a5-a78a-2a0323e1dbba](https://github.com/PriyankaAnnadurai/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118351569/43acb6fa-2e0a-424f-a783-801eadb7432f)
 
 
-x,y,theta value:
+### x,y,theta value:
 
 
 ![270173335-c57997fb-fd64-4d3e-a341-bd266b6dc9a9](https://github.com/PriyankaAnnadurai/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118351569/e84a8833-ace3-4e57-b85d-a4353ba3e94a)
 
 
-Gradient descent:
+### Gradient descent:
 
 ![270173355-4d3b689e-7796-4682-9fb5-3509db4c9c98](https://github.com/PriyankaAnnadurai/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118351569/eec1fdfe-4f4a-4cea-9045-d7cf4b69fe1e)
 
 
-Cost function using Gradient Descent Graph:
+### Cost function using Gradient Descent Graph:
 
 ![270173388-d864a41e-71b9-4d05-95a3-733fe9f09f72](https://github.com/PriyankaAnnadurai/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118351569/c56b85e9-7611-4a38-9887-951b6f7147a5)
 
 
 
 
-Profit Prediction Graph:
+### Profit Prediction Graph:
 
 ![270173405-caa5a204-03ad-45d2-9a69-1d69d665673b](https://github.com/PriyankaAnnadurai/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118351569/00b307cb-bd16-4f04-a419-01e8a5e4ba1c)
 
 
 
-Profit Prediction:
+### Profit Prediction:
 
 ![270173419-f6b88cdc-5266-4940-bc59-10c8ce0b7f50](https://github.com/PriyankaAnnadurai/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118351569/158d456b-bc07-4501-96d5-92256e99aa4e)
 
